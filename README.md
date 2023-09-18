@@ -12,7 +12,7 @@
 </div>
 
 # Nice to see you on my github page!
-I'm Frolov Daniil Alexandrovich, at the moment ~~I'm 1st year student~~ it looks like I'm already ~~2nd year~~ 3rd year student of MIPT (Moscow Institute of Physics and Technology).
+I'm Frolov Daniil Alexandrovich, at the moment ~~I'm 1st year student~~ it looks like I'm already ~~2nd year~~ ~~3rd year~~ 4th year student of MIPT (Moscow Institute of Physics and Technology).
 
 ## Work?
 Here you can see some of my projects:
